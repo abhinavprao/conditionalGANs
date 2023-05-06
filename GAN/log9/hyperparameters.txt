@@ -1,0 +1,1 @@
+{"batch size": 32, "generator learning rate": 0.0001, "discriminator learning rate": 0.0001, "number of epochs": 100, "dropout rate": 0.3, "leaky RELU negative slope": 0.2, "wasserstein nCritic": 1}
