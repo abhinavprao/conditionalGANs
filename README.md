@@ -41,3 +41,6 @@ Epoch 100:
 
 ![alt text](<GAN/log10/Epoch 100_ All Digits.png>)
 
+
+
+Full Report: [text](ece50024finalreport.pdf)
